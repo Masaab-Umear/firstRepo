@@ -1,0 +1,3 @@
+this is first file in git!!!
+
+lets make more changes
